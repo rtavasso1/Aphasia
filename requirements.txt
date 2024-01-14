@@ -1,0 +1,6 @@
+streamlit
+openai-whisper
+openai
+numpy
+pathlib
+ffmpeg
